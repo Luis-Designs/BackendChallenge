@@ -1,0 +1,6 @@
+node_modules/
+.vscode/
+*error*
+*.env
+videos/*.mp4
+processed/*.mp4
