@@ -4,3 +4,4 @@ node_modules/
 *.env
 videos/*.mp4
 processed/*.mp4
+processed/*.txt
